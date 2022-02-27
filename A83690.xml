@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the House of Commons touching the breach of their priviledges, and for the vindication thereof, and of divers members of the said house &amp;c. Wherein is likewise contayned, first, a remonstrance of the present state of divers things in, and about, the City of London, Westminster and Parliament-house, ... : 2. The examination of His Majesties Attourny Generall by the House of Commons, ... 3. Seaven articles of high treason against Coronell Lunsford: together with an order of both Houses for the speedy apprehension of the Lord Digby, and the aforesaid Lunsford, ... 4. The wonderfull deliverance of foure honorable Peeres of this land, ... 5. The votes of both Houses of Parliament against those eleven Bishops which were accused of high treason, &amp;c. 6. The advice sent from His Majewties Commissioners in Scotland, to both the honorable houses of Parliament in England, Ianuary the 15. 1641. ... 7. The sea-mens protestation. Lastly, how two boats laden with great saddles to bee carried down into Kingston, were staid, ... Published this 19. of Ianuary. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83690</idno>
+            <idno type="STC">Wing E2569</idno>
+            <idno type="STC">Thomason E132_6</idno>
+            <idno type="STC">ESTC R22313</idno>
+            <idno type="EEBO-CITATION">99871701</idno>
+            <idno type="PROQUEST">99871701</idno>
+            <idno type="VID">156355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156355)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the House of Commons touching the breach of their priviledges, and for the vindication thereof, and of divers members of the said house &amp;c. Wherein is likewise contayned, first, a remonstrance of the present state of divers things in, and about, the City of London, Westminster and Parliament-house, ... : 2. The examination of His Majesties Attourny Generall by the House of Commons, ... 3. Seaven articles of high treason against Coronell Lunsford: together with an order of both Houses for the speedy apprehension of the Lord Digby, and the aforesaid Lunsford, ... 4. The wonderfull deliverance of foure honorable Peeres of this land, ... 5. The votes of both Houses of Parliament against those eleven Bishops which were accused of high treason, &amp;c. 6. The advice sent from His Majewties Commissioners in Scotland, to both the honorable houses of Parliament in England, Ianuary the 15. 1641. ... 7. The sea-mens protestation. Lastly, how two boats laden with great saddles to bee carried down into Kingston, were staid, ... Published this 19. of Ianuary. 1641.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Coules, and T. Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Newsbook -- Wing.</note>
+                  <note>Also published with title : A declaration of the House of Commons touching the late breach ..</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>England and Wales. --  Parliament --  Privileges and immunities.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156355:1"/>
+            <pb facs="tcp:156355:1" rendition="simple:additions"/>
+            <p>A Declaration of the houſe of Commons touching the breach of their Priviledges, and for the vindication thereof, and of divers members of the ſaid houſe, &amp;c.</p>
+            <p>Wherein is likewiſe contayned,
+<list>
+                  <item>Firſt, <hi>A remonſtrance of the preſent State of divers things in, and about, the City of</hi> London, Weſtminſter <hi>and</hi> Parliament-houſe, <hi>ſince the King and Queenes departure from White-hall to Hampton Court.</hi>
+                  </item>
+                  <item>2. <hi>The examination of his Majeſties Attourny Generall by the Houſe of Commons, about the Articles againſt the ſixe Parliament men; with his anſwere to every particular.</hi>
+                  </item>
+                  <item>3. <hi>Seaven articles of high Treaſon againſt Coronell</hi> Lunsford: <hi>Together with an order of both Houſes for the ſpeedy apprehenſion of the Lord</hi> Digby, <hi>and the aforeſaid</hi> Lunsford, <hi>for raiſing armes and forces neere</hi> Kingſton <hi>upon Thames, to the terror of his Majeſties ſubjects.</hi>
+                  </item>
+                  <item>4. <hi>The wonderfull deliverance of foure honourable Peeres of this Land, which ſhould have bin poiſoned at a Supper, by a French Cooke.</hi>
+                  </item>
+                  <item>5. <hi>The votes of both Houſes of Parliament againſt thoſe eleven Biſhops which were accuſed of high Treaſon, &amp;c.</hi>
+                  </item>
+                  <item>6. <hi>The advice ſent from his Majeſties Commiſſioners in</hi> Scotland, <hi>to both the honourable houſes of Parliament in</hi> England, <hi>Ianuary the</hi> 15. 1641. <hi>for compoſing the preſent differences and late diſtractions in this Kingdome, &amp;c.</hi>
+                  </item>
+                  <item>7. <hi>The Sea-mens Proteſtation.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſtly, how two Boats laden with great Saddles to bee carried downe unto</hi> Kingſton, <hi>were ſtaid, and thoſe that ſhould have tranſported them, exa<g ref="char:EOLhyphen"/>mined by the Parliament. Alſo how that Coronell</hi> Lunsford <hi>was taken at Sir</hi> Iohn Thorowgoods <hi>houſe neere Windſor, in the County of Berks,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Publiſhed this</hi> 19. of Ianuary. 1641.</p>
+            <p>London <hi>Printed for</hi> Fr. Coules, <hi>and</hi> T. Bankes. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:156355:2"/>
+            <head>A Declaration of the Houſe of Commons, touching a late Breach of their Priviledges; and for the Vindication thereof, and of divers Mem<g ref="char:EOLhyphen"/>bers of the ſaid <hi>Houſe.</hi>
+            </head>
+            <div type="body_of_declaration">
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas the Chambers, Studies, and Trunkes, of Maſter <hi>Den<g ref="char:EOLhyphen"/>zill Hollis,</hi> Sir <hi>Arthur Haſlerigg,</hi> Maſter <hi>Iohn Pym,</hi> Maſter <hi>John Hampden,</hi> and Maſter <hi>William Strode</hi> Eſquires, Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commons, upon Munday the 3. of this inſtant <hi>Ianuary,</hi> by colour of His Majeſties Warrant have bin ſealed up by Sir <hi>William Killigrew,</hi> and Sir <hi>William Flemen,</hi> and others, which is not onely againſt the Priviledge of Parliament, but the Common Liberty of every Subject: Which ſaid Members afterwards, the ſame day were under the like colour, by Serjeant <hi>Francis,</hi> one of His Majeſties Serjeants at Armes, contrary to all former Preſidents demanded of the Speaker ſitting in the Houſe of Commons, to be delivered unto him, that he might Arreſt them of high Treaſon. And whereas, afterwards the next day His Majeſty in His Royall Perſon came to the ſaid Houſe attended with a great multitude of men armed in warlike manner, with Halberts, Swords, and Piſtolls, who came up to the very doore of the Houſe, and placed themſelves there, and in other pla<g ref="char:EOLhyphen"/>ces, and paſſages neere to the ſaid Houſe, to the great terrour and diſturbance of the Members then ſitting; and according to their duty in a peaceable, and orderly manner, treating of the great affaires of <hi>England,</hi> and <hi>Ireland.</hi> And his Majeſty having placed himſelfe in the Speakers Chaire, demanded of them the Perſons of the ſaid Members to be delivered unto him, which is a high Breach of the Rights and Priviledges of Parliament and Inconſiſtent with the Liberties and Freedome thereof. And whereas afterwards his Majeſty did iſſue forth ſeverall Warrants to divers Officers under his owne hand, for the apprehenſion of the Perſons of the ſaid Members, which by Law hee cannot doe; there being not all this time, any Legall charge or accuſation or due Pro<g ref="char:EOLhyphen"/>ceſſe of Law iſſued againſt them, nor any pretence of charge made knowne to that Houſe; all which are againſt the Fundamentall Liberties of the Subject, and the Rights of Parliament. Whereupon we are neceſſitated, according to our duty to declare? And We doe hereby declare that if any Perſon ſhall Ar<g ref="char:EOLhyphen"/>reſt
+<pb n="3" facs="tcp:156355:2"/>M. <hi>Hollis,</hi> Sir <hi>Arthur Haſlerigg,</hi> M. <hi>Pym,</hi> M. <hi>Hampden,</hi> and M. <hi>Strode,</hi> or any of them, or any other Member of Parliament, by pretence or colour of any Warrant iſſuing out from the King onely, is guilty of the Breach of the Liberties of the Subject, and of the Priviledges of Parliament, and a publibke enemy to the Common-wealth. And that the Arreſting of the ſaid Members, or any of them, or of any other Member of Parliament, by any Warrant whatſoever, without a legall Proceeding againſt them, and without conſent of that Houſe, whereof ſuch ſuch Perſon is a Member, is againſt the liberty of the Subject, and a Breach of Priviledge of Parliament; And the Perſon which ſhall Arreſt any of theſe Perſons, or any Member of the Parliament, is decla<g ref="char:EOLhyphen"/>red a publike enemy of the Common-wealth. Notwithſtanding all which we thinke fit, further to declare that we are ſo far from any endeavours to protect any of our Members, that ſhall bee in due manner proſecuted according to the Lawes of the Kingdome, and the Rights and Priviledges of Parliament for Treaſon, or any other miſdemeanours, That none ſhall bee more ready and willing then we our ſelves, to bring them to a ſpeedy, and due tryall, being ſenſible that it equally imports us, as well to ſee Juſtice done againſt them that are Criminous, as to defend the Rights and Liberties of the Subjects, and Parliament of <hi>England.</hi>
+               </p>
+               <p>And whereas upon ſeverall examinations taken the 7. day of this inſtant <hi>Ianuary,</hi> before the Committee appointed by the Houſe of Commons of ſit in <hi>London,</hi> it did fully appeare, that many ſouldiers, Papiſts, and others, to the number of about 500. came with his Majeſty on Tueſday laſt, to the ſaid Houſe of Commons, armed with Swords, Piſtolls, and other Weapons; and divers of them preſſed to the doore of the ſaid Houſe, thruſt away the doore Keepers, and placed themſelves, betweene the ſaid doore and the ordinary attendants of his Majeſty; holding up their Swords, and ſome holding up their Piſtolls ready cock'd neere the ſaid doore; and ſaying, I am a good Markſman, I can hit right I warrant you, and they not ſuffering the ſaid door, according to the cuſtome of Parliament to be ſhut, but ſaid they would have the doore open, and if any oppoſition were againſt them, they made no queſtion, but they ſhould make their party good, and that they would main<g ref="char:EOLhyphen"/>taine their party; and when ſeverall Members of the Houſe of Commons were comming into the Houſe, their attendants deſiring that Roome might be made for them, ſome of the ſaid Souldiers anſwered, A Pox of God confound them and others ſaid, A Pox take the houſe of Commons, let them come and be hanged, what a doe is here with the houſe of Commons; and ſome of the ſaid Souldiers did likewiſe violently aſſault, and by force diſarme ſome of the Attendants, and ſervants of the Members of the houſe of Commons, waiting in the Roome next the ſaid houſe, and upon the Kings returne out of the ſaid
+<pb n="4" facs="tcp:156355:3"/>houſe, many of them by wicked Oathes, and otherwiſe, expreſſed much diſcontent, that ſome Members of the ſaid Houſe, for whom they came were not there, and others of them ſaid, when comes the word, and no word being given at his Majeſties comming out, they cryed a Lane, a Lane; afterwards ſome of them being demanded, what they thought the ſaid com<g ref="char:EOLhyphen"/>pany intended to have done, anſwered, That queſtionleſſe in the poſture they were ſet if the word had beene given, they ſhould have fallen upon the Houſe of Commons, and have cut all their throates. Upon all which we are of opinion, that it is ſufficiently proved, that the comming of the ſaid Souldiers, Papiſts, and others with his Majeſty to the Houſe of Commons on Tueſday laſt, being the fourth of this inſtant <hi>Ianuary,</hi> in the manner aforeſaid, was to take away ſome of the Members of the ſaid houſe; and if they ſhould have found oppoſition, or deniall, then to have fallen upon the ſaid houſe in a hoſtile manner, And wee doe hereby declare that the ſame was a traiterous deſigne againſt the King and Parliament. And whereas the ſaid Maſter <hi>Hollis,</hi> Sir <hi>Arthur Haſterigg,</hi> Maſter <hi>Pym,</hi> M. <hi>Hampden,</hi> and M. <hi>Strode,</hi> upon report of the comming of the ſaid Souldiers, Papiſts, and other in the warlike and hoſtile manner, aforeſaid, did with the approba<g ref="char:EOLhyphen"/>tion of the houſe abſent themſelves from the ſervice of the houſe, for avoiding the great, and many inconveniences, which otherwiſe apparantly might have happened: Since which time a printed paper in the forme of a Proclamation, bearing date the ſixth day of this inſtant <hi>Ianuary,</hi> hath iſſued out for the ap<g ref="char:EOLhyphen"/>prehending, and impriſoning of them, Therein ſuggeſting that through the conſcience of their owne guilt, they were abſent and fled not willing to ſub<g ref="char:EOLhyphen"/>mit themſelves to Juſtice; Wee doe further declare that the ſaid printed paper is falſe, ſcandalous and illegall, and that notwithſtanding the ſaid printed pa<g ref="char:EOLhyphen"/>per, or any warrant iſſued out, or any other matter yet appearing againſt them; or any of them, they may and ought to attend the ſervice of the ſaid houſe of Commons, and the ſeverall Committees now on foot. And that it is lawfull for all perſons whatſoever to lodge, harbour or converſe with them or any of them; And whoſoever ſhall be queſtioned for the ſame, ſhall be under the protection and priviledge of Parliament.</p>
+               <p>And we doe further declare, That the publiſhing of ſeverall Articles pur<g ref="char:EOLhyphen"/>porting a forme of a charge of high Treaſon againſt the L. <hi>Kimbolton,</hi> one of the Members of the Lords houſe, and againſt the ſaid M. <hi>Hollis.</hi> Sir <hi>Arthur Haſterigg,</hi> M. <hi>Pym.</hi> M. <hi>Hampden, and</hi> M. <hi>Strode,</hi> by Sir <hi>William Killigrew,</hi> Sir <hi>William Flemen,</hi> and others in the Innes of Court, and elſewhere in the Kings Name, was a high Breach of the Priviledge of Parliament, a great ſcandall to his Majeſty and his Government: A ſeditious Act manifeſtly ten<g ref="char:EOLhyphen"/>ding to the ſubverſion of the Peace of the Kingdome, and an injury, &amp; diſhonour
+<pb facs="tcp:156355:3"/>to the ſaid Members, there being no legall charge or accuſation againſt them.</p>
+               <p>That the priviledges of Parliaments, and the liberties of the Subject ſo viola<g ref="char:EOLhyphen"/>ted and broken, cannot be fully and ſufficiently vindicated, unleſſe his Majeſty will be gratiouſly pleaſed to diſcover the names of thoſe perſons who adviſed his Majeſty to iſſue out Warrants, for the ſeling of the Chambers, and Studies of the ſaid Members, to ſend a Serjeant at Armes to the houſe of Commons, to demand their ſaid Members, to iſſue out ſeverall Warrants under his Ma<g ref="char:EOLhyphen"/>jeſties owne hand, to apprehend the ſaid members. His Majeſties comming thither, in his own Royall Perſon. The publiſhing of the ſaid Articles, and printed paper in the form of a Proclamation againſt the ſaid Members in ſuch manner as is before declared, To the end that ſuch perſons may receive con<g ref="char:EOLhyphen"/>digne puniſhmnt,</p>
+               <p>
+                  <hi>And this houſe doth further declare, That all ſuch perſons as have given any Councell, or endeavoured to ſet or maintain diviſion or diſlike, betweene the King and Parliament, or have listed their names, or otherwiſe entred into any combination or agreement, to be ayding, or aſſicting, to any ſuch counſell or en<g ref="char:EOLhyphen"/>deavour, or have perſwaded any other ſo to doe, or that ſhall doe any the things above mentioned; And ſhall not forthwith diſcover the ſame to either houſe of Parliament: Or the Speaker of either of the ſaid houſes reſpectively, and diſ<g ref="char:EOLhyphen"/>claime it, are declared publike enemies of the State and Peace of this King<g ref="char:EOLhyphen"/>dome, and ſhall be inquired of, and proceeded againſt accordingly.</hi>
+               </p>
+               <floatingText type="license" xml:lang="eng">
+                  <body>
+                     <p>Die Lunae 17. Ianuarii 1641. <hi>It is this day ordered, By the Commons Aſſembled in</hi> Parlia<g ref="char:EOLhyphen"/>ment, <hi>that this Declaration ſhall be forthwith publiſhed in print.</hi>
+                     </p>
+                     <closer>
+                        <signed>Hen. Elſing. Cler. Parl. De Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="protestation">
+               <head>The Seamens proteſtation, &amp;c.</head>
+               <p>I A. B. <hi>Do Proteſt before Almighty God, to maintayne with my deareſt Life and blood, the Proteſtant Religion as was eſtabliſhed in the dayes of Queene</hi> Elizabeth; <hi>To acknowledge</hi> Charles, <hi>by the Grace of God, King of Great Brittain, France and Ireland: To ſtand for the Priviledges of Par<g ref="char:EOLhyphen"/>liament; utterly from my heart to abhor all Popery and Popiſh innovations. So help me God.</hi>
+               </p>
+            </div>
+            <div type="vote">
+               <head>The votes of both houſes of Parliament, that paſſed, upon a Conference, concerning the accuſed Biſhops.</head>
+               <p>
+                  <hi>ALL the Articles and inditements againſt the Biſhops, wherein they were highly impeached being publickly read, both Houſes gave many votes againſt them, they being found ſo vehement peccant, and intolerable delin<g ref="char:EOLhyphen"/>quent. Firſt, for contra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cting and ſtriving to extenuate the Priviledges of Parliament. Secondly for denying the liberty of the Subject. And laſtly, for endeavouring to alienate the King from the Parliament, the one oppoſitely to the other; and many other impeachments being objected againſt them; the Parliament determined they ſhould be voted from the Houſe, degraded and ſuſpended from their Epiſcopall government, with an at cetera.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <pb n="6" facs="tcp:156355:4"/>
+               <head>
+                  <hi>A true Relation of a treacherous plot practiſed by a French Cooke, for the poiſoning of foure noble men of this Land, at the Earle of</hi> Leiceſters <hi>houſe in St.</hi> Martins lane, 11. Ianu.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Earle of <hi>Leiceſter</hi> having invited foure Honourable Lords, and Peeres of this Kingdome, with ſome other great Perſona<g ref="char:EOLhyphen"/>ges, to a Supper, which was performed at his houſe in St. <hi>Mar<g ref="char:EOLhyphen"/>tins Lane</hi> neere the <hi>Strand</hi> on <hi>Tueſday,</hi> Ianu. 11. 1641.</p>
+               <p>And being all ſet at Supper, there came in a Helliſh bloody minded fellow, a <hi>French-man,</hi> (and is conceived) backed unto that wicked in<g ref="char:EOLhyphen"/>tention by ſome of the Popiſh faction, which may well bee conjectured by the ſequell which followeth.</p>
+               <p>This <hi>French-man</hi> being come into place where theſe Noble Peers did ſup that night, hee privately whiſpered with the Cooke of the Earle of <hi>Leiceſter,</hi> who alſo was a <hi>French-man,</hi> and could not ſpeake a word of <hi>Engliſh,</hi> and told him in his owne Language, that if he would undertake to poyſon the ſecond courſe that was to bee ſet before thoſe worthy and Honourable Perſonages, hee would for his reward and ſecrecy therein, give him 3000. pound in ready gold; The Cooke perceiving this his wicked and bloody intentions, told him that if it might gain him 1000. worlds, he would not attempt an Act ſo wicked, and withall told him that his Treacherous Deſignes hee would immediately diſcover, the which the Frenchman perceiving (when he ſaw his opportunity) ſtole out of doores, for no man there preſent could underſtand <hi>French,</hi> and this <hi>French</hi> Cooke underſtanding no <hi>Engliſh,</hi> whereby to diſcover this advice of his Countrey man, was the reaſon why he did eſcape, who if he had beene as avaricious of lucre as the other of blood, they had diſpach<g ref="char:EOLhyphen"/>ed out of this world theſe Noble Pillers of our Realm, this was not diſ<g ref="char:EOLhyphen"/>covered till after Supper, the Cooke meeting one of the Earle of <hi>Leice<g ref="char:EOLhyphen"/>ſters</hi> Chaplaines which underſtood French, who told him the manner and forme of it as is before related, yet was this <hi>French</hi> Cooke apprehen<g ref="char:EOLhyphen"/>ded and ſent for to be examined before the Lords in Parliament, and as yet not acquitted.</p>
+               <p>Let every Chriſtian Reader judge what Diabolicall, and unparallel'd intentions are continually practiſed by the Papiſts in <hi>England,</hi> againſt the Pillars of our Church and Common-wealth:</p>
+            </div>
+            <div type="articles">
+               <head>Five Articles preferred by the Houſe of Commons in <hi>Parliament againſt Mr.</hi> Herbert <hi>the Kings Attourney Generall.</hi>
+               </head>
+               <p>
+                  <hi>WHether he contrived, framed, or adviſed the Articles exhibited a<g ref="char:EOLhyphen"/>gainſt the Lord</hi> Kimbolton, <hi>Mr.</hi> Hollis, <hi>Sir</hi> Arthur Haſlerigg,
+<pb n="7" facs="tcp:156355:4"/>
+                  <hi>Mr.</hi> Pym, <hi>Mr.</hi> Hampden, <hi>and Mr.</hi> Stroud, <hi>or whether hee knew or had heard who did contrive, frame, or adviſe the ſame.</hi> To which he anſwered <hi>That he did none of thoſe three, and if he was proved ſo to doe, he would bee contented to dye for it.</hi>
+               </p>
+               <p n="2">2. <hi>Whether he knew the truth of thoſe Articles;</hi> To which he anſwered, <hi>That he knew nothing but what was ſaid to him by his Maſter the King.</hi>
+               </p>
+               <p n="3">3. <hi>Whether he will make them good when he ſhall be called thereto,</hi> To which he anſwered, <hi>he was no way able to make them good farther then his Maſter ſhould enable him.</hi>
+               </p>
+               <p n="4">4. <hi>From whom he had received them, or by whoſe advice hee did exhibite them.</hi> To which he anſwered, <hi>That from his Maſters hands hee received them, and by his command did exhibite them.</hi>
+               </p>
+               <p n="5">5. <hi>What proofe and teſtimony he had to maintaine thoſe Articles,</hi> To which he anſwered, <hi>That he received the Command from his Maſter, and had no other proofe or teſtimony but ſuch as his Master ſhould enable him with. And being preſſed to deale cleerely, what teſtimony that was, He ſaid he was of his Majeſties Counſell, and therefore deſired further time to conſi<g ref="char:EOLhyphen"/>der what anſwer to make,</hi>
+               </p>
+               <p>VPon all which it was reſolved upon the queſtion, that the exhibi<g ref="char:EOLhyphen"/>ting of thoſe Articles in the Lords Houſe againſt Members of the Commons Houſe, was illegall and a high crime. It was likewiſe orde<g ref="char:EOLhyphen"/>red, that a Meſſage ſhould bee ſent to the Lords, to deſire them to joyne with the Houſe of Commons, to move the King, that by Thurſday next his Majeſtie will be pleaſed to appoint ſuch as have given information againſt the foreſaid Members, may bring in their charge, or elſe they to be freed by ſuch a way as the Parliament ſhall thinke fit.</p>
+               <p>An Order was entred, that in regard there was a high breach of the priviledges of Parliament by Mr, <hi>Herbert</hi> Mr. Attourney in exhibiting the Articles aforeſaid, in the ſealing up their papers and Trunkes, in the demand of the foreſaid Members in the Commons Houſe, that a Meſ<g ref="char:EOLhyphen"/>ſige be ſent to the Lords to make a Committee of Lords to meet with a Committee of the Commons Houſe, to conſider how and in what man<g ref="char:EOLhyphen"/>ner reparation may be made for the breach of priviledges.</p>
+               <p>Then the Blacke Rod came to call the Speaker and the Commons Houſe into the Lords Houſe, where the King by Commisſion paſſed the two Acts, 1. For presſing of Marriners for the ſhips. 2. For the Cap<g ref="char:EOLhyphen"/>tives taken by the Pyrats of <hi>Argiere.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <p>ON Wedneſday the 12. of <hi>Ianuary,</hi> upon the report of the great Hur<g ref="char:EOLhyphen"/>ly-Burly, raiſed at <hi>Kingstone,</hi> by Colonell <hi>Lunsford,</hi> and the Lord
+<pb facs="tcp:156355:5"/>
+                  <hi>George Digby,</hi> who with 300, Troopers, and diverſe other deſparate and ſuſpitious perſons, appearing in armes much affrighted the Coun<g ref="char:EOLhyphen"/>trey people thereabout, and bred great feares in the City.</p>
+               <p>There were warrants granted out to the Sergtant, to ſtay two Bootes laden with grert ſaddles, to be carried down to <hi>Kingſtonn,</hi> and to bring them that tranſported them to bee examined which was accordingly performed,</p>
+               <p>It is this day ordered by the Lords and Commons in Parliament, that the Sheriffs of the ſeverall Counties of <hi>England</hi> and <hi>Wales,</hi> calling to their asſiſtance the juſtices of the Peace, and the trained Bands of thoſe ſeverall Counties (or ſo many of them as ſhall bee neceſſary for the Ser<g ref="char:EOLhyphen"/>vice) ſhall ſuppreſſe all unlawfull Aſſemblies gathered together to the diſturbance of the publike Peace of the Kingdome in their ſeveral Coun<g ref="char:EOLhyphen"/>ties reſpectively: and that they take care to ſecure the ſaid Counties, and all the Magazines in them.</p>
+            </div>
+            <div type="advice">
+               <head>
+                  <hi>Advice ſent from his Majeſties Commiſſioners in</hi> Scotland, <hi>to both Houſes of Parliament,</hi> Ianuary 15. 1641.</head>
+               <p>OVr Treaty concerning the Iriſh affaires, being ſo often interrupted by the emergent diſtractions, gives us occaſion earneſtly to deſire your Lordſhips, and theſe Noble Gentlemen of the Houſe of Commons; for to preſent to the Honourable Houſes of Parliament.</p>
+               <p>Wee doe in name of the Parliament and Kingdome of <hi>Scotland</hi> ac<g ref="char:EOLhyphen"/>knowledge ourſelves next to the providence of God, and in his Maje<g ref="char:EOLhyphen"/>ſties juſtice and goodneſſe moſt beholding to the meditation and Bro<g ref="char:EOLhyphen"/>therly kindeneſſe of the Kingdome of <hi>England</hi> in many reſpects, and E<g ref="char:EOLhyphen"/>ſpecially in Condeſcending to the Kings Majeſties downe comming to Scotland in the middeſt of their greateſt affaires whereof we have taſted the ſweet and comfortable fruits, and do heartily wiſh the happineſſe to this Kingdome.</p>
+               <p>And as we are hearty ſorry to finde our hopes thereof deferred, by the preſent diſtractions daily growing here to greater height, and out of the ſenſe thereof, have taken the boldneſſe to ſend our humble and faithfull advice to the Kings moſt Excellent Majeſty for the remedying of the ſame, to the juſt fatisfaction of his people; So out of our duty to his Ma<g ref="char:EOLhyphen"/>jeſty and to teſtifie our brotherly affection to this Kingdome, and acquit themſelves of the truſt impoſed upon us.</p>
+               <p>We doe moſt earneſtly beſeech the Honourable Houſes in the Depth of their wiſedome, to think timouſly upon the faireſt and fitteſt wayes of compoſing all preſent difference; To the glory of God, the good of the Church and State of both Kingdomes, and to his Majeſties honour and Contentment wherein if our faithfull endeavours may be any wayes uſe<g ref="char:EOLhyphen"/>ful, we ſhal be moſt ready at all occaſions to contribute the ſame.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
